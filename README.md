@@ -1,7 +1,7 @@
-# Assault-Cube-Overhaul
-Assault Cube is a really intresting game but as of 2026, it's 20 YEARS OLD and of course the graphics suck, but i am on my way to fix them
+# Assault-Cube-Quality-Overhaul
+Assault Cube is a really intresting and fun game but as of 2026, it's 20 YEARS OLD and of course the graphics suck and most of the things are low quality, but i am on my way to fix them
 
-Here are all the files/directories that i think should be changed:
+Here are all the files that i think should be changed:
 
 
 C:\Program Files (x86)\AssaultCube 1.3.0.2\packages\audio\ambience\deserthawk.ogg
